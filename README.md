@@ -1,4 +1,6 @@
 ## Проектная работа «Оно тебе надо»
+Ссылка на репозиторий:
+https://github.com/AfanasevDL/ono-tebe-nado
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +10,5 @@
 
 ### Описание макета
 >Этот макет предназначен для большого монитора
-
-
 
 Автор: [Афанасьев Д.Л.](https://github.com/afanasevdl)
