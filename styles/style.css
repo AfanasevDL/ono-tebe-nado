@@ -10,7 +10,7 @@ body {
   grid-template-rows: 109px;
   justify-items: end;
   align-items: center;
-  margin: 90px 50px 158px;
+  margin: 90px 50px;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -79,6 +79,7 @@ body {
 
 .cover {
   margin-top: 92px;
+  margin-bottom: 180px;
   padding: 165px 50px 50px;
   background-image: url("../images/cover.jpg");
   background-size: cover;
@@ -165,7 +166,7 @@ body {
 /* LOTS */
 
 .lots {
-  margin: 158px 50px 158px;
+  margin: 158px 50px 108px;
 }
 
 .lots__heading {
@@ -270,7 +271,7 @@ body {
   display: grid;
   grid-template-columns: 430px 1fr;
   grid-template-rows: 240px 1fr 1fr;
-  margin: 158px 50px 70px;
+  margin: 182px 50px 70px;
   column-gap: 25px;
 }
 
@@ -324,6 +325,7 @@ body {
   grid-template-columns: 240px 1fr 240px;
   align-items: start;
   padding: 90px 50px;
+  margin-top: 95px;
 }
 
 .footer__menu-list {
